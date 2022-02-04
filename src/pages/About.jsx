@@ -10,7 +10,7 @@ export default class About extends Component {
             <Accordion.Header>Sejarah Berdirinya Restoran</Accordion.Header>
             <Accordion.Body>
               <p>
-                Pengusaha sekaligus pemilik restoran Solaria, Aliuyanto, S.E.,
+                Pengusaha sekaligus pemilik restoran Abunawas, Aliuyanto, S.E.,
                 menyampaikan pengalamannya di hadapan 1.079 calon wisudawan
                 mahasiswa pascasarjana UGM yang mengikuti pembekalan wisuda di
                 Grha Sabha Pramana, Senin (18/1). Alumnus Fakultas Ekonomi UGM
