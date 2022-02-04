@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Col, Accordion, Card, Row } from "react-bootstrap";
+import { Col, Accordion } from "react-bootstrap";
 
 export default class About extends Component {
   render() {
