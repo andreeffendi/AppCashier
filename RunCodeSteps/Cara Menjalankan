@@ -1,0 +1,11 @@
+Materil yang digunakan dalam pembuatan Aplikasi ini :
+- reactjs
+- jsonplaceholder
+- sweetalert , axios 
+- font awesome reactjs
+- router dom
+- undraw.co
+
+Jika ingin menjalankan aplikasi ini , db.json dipindahkan filenya ke dalam folder kasir-app-backend .
+Pisahkan saja foldernya (kasir-app-backend) dari testdbo
+selanjutnya jalankan perintah ini : npx json-server --watch db.json --port 3004
